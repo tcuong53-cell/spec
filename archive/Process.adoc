@@ -1,6 +1,6 @@
 This document describes the process of making changes to the Mastercoin
-spec. This process is it’s very early stages, and is expected to change
-rapidly in the future (e.g. to include
+spec. This process is in its very early stages, and is expected to change
+rapidly in the future (e.g. to include
 https://bitcointalk.org/index.php?topic=309729.0[Voting]). The current
 Protocol Owner is J.R Willett.
 
